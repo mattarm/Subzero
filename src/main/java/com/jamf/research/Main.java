@@ -1,4 +1,4 @@
-package com.jamf.research.subzero;
+package com.jamf.research;
 
 public class Main {
 
