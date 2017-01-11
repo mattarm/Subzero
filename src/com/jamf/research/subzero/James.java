@@ -1,3 +1,5 @@
+package com.jamf.research.subzero;
+
 /**
  * Created by jamesfelton on 1/11/17.
  */
